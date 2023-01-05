@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672794904 source:c:\users\daniel\documents\std praktikum\tubes std\main.cpp
+	"kargo.h"
+
+1672794904 c:\users\daniel\documents\std praktikum\tubes std\kargo.h
+	<iostream>
+
+1672794936 source:c:\users\daniel\documents\std praktikum\tubes std\kargo.cpp
+	"kargo.h"
+
